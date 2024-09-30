@@ -1,0 +1,9 @@
+
+.img{
+    object-fit: contain;
+    height: 250px;
+}
+
+.text{
+    font-size: 16px;
+}
