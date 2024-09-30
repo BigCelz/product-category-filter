@@ -7,3 +7,17 @@
 .text{
     font-size: 16px;
 }
+
+@media(max-width:768px){
+    .btn-danger{
+        width: 60%;
+        margin-bottom: 10px;
+    }
+
+    .button-container{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+}
